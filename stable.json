@@ -7,10 +7,14 @@
     "released_at": "2026-08-12T06:30:00Z",
     "features": {
       "en": [
-        "Initial Alephant Agent runtime version notice."
+        "Initial Alephant Agent runtime version notice.",
+        "Improved skills loading stability.",
+        "Fixed workspace restore issues."
       ],
       "zh-CN": [
-        "初始 Alephant Agent 运行时版本提示。"
+        "初始 Alephant Agent 运行时版本提示。",
+        "优化 skills 加载稳定性。",
+        "修复 workspace 恢复问题。"
       ]
     }
   }
