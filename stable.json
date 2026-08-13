@@ -5,6 +5,7 @@
   "latest": {
     "version": "0.1.1",
     "released_at": "2026-08-12T06:30:00Z",
+    "runtime_image_id": "sha256:0f4784f30e5881f29e3a907338b526dc4206dcc007b4df47dc45da2320b29d41",
     "features": {
       "en": [
         "Initial Alephant Agent runtime version notice.",
